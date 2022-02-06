@@ -1,1 +1,1 @@
-All items in our repository are open sourced and free to use as you wish.
+Documentaion on our products. And some free stuff too.
